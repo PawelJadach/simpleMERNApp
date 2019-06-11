@@ -1,0 +1,23 @@
+div.btn-group{
+ margin-right:30px;
+}
+
+ul.list-group{
+    text-align: left;
+}
+
+span.title{
+    
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 2rem;
+}
+
+ul.list-group li:nth-child(2n+0) {
+    background-color: #ddd;
+  }
+
+span.state{
+    text-transform: uppercase;
+    font-size: 10px;
+}

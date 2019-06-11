@@ -1,0 +1,15 @@
+a.nav-link{
+    margin-left:15px;
+}
+li.nav-item a{
+    color:white;
+    margin-right:20px;
+    margin-bottom:50px;
+    text-decoration: none;
+}
+li.nav-item a :hover{
+    text-decoration: none;
+}
+li.nav-item a.active{
+    color:#17a2b8;
+}
